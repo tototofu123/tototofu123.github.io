@@ -1,0 +1,59 @@
+name: Update Portfolio README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: repos } = await github.rest.repos.listForUser({
+              username: 'tototofu123',
+              sort: 'updated',
+              per_page: 100
+            });
+
+            const filteredRepos = repos.filter(repo => 
+              !repo.fork && 
+              repo.name !== 'tototofu123.github.io' &&
+              repo.name !== 'myrepo'
+            );
+
+            let repoList = filteredRepos.map(repo => {
+              const name = repo.name.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+              const url = `https://tototofu123.github.io/${repo.name}`;
+              return `- [${name}](${url}) - ${repo.description || 'No description'}`;
+            }).join('\n');
+
+            const fs = require('fs');
+            let readme = fs.readFileSync('README.md', 'utf8');
+
+            const startTag = '<!-- REPO_LIST_START -->';
+            const endTag = '<!-- REPO_LIST_END -->';
+            const regex = new RegExp(`${startTag}[\\s\\S]*${endTag}`);
+            
+            const newContent = `${startTag}\n${repoList}\n${endTag}`;
+            readme = readme.replace(regex, newContent);
+
+            fs.writeFileSync('README.md', readme);
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update repository index [skip ci]"
+          git push

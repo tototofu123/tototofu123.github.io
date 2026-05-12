@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
-title: Tototofu's Web Hub
-description: A central index of all my live web projects and experiments.
+theme: jekyll-theme-slate
+title: tototofu123 Portfolio
+description: Official index of projects and experiments by tototofu123.
+show_downloads: false
+google_analytics: 
