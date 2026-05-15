@@ -38,14 +38,6 @@ This index is automatically synchronized with my latest GitHub activity.
 
 ---
 
-## 🎨 Design Philosophy
-My projects follow the **Wood + Orange** series:
-- **Wood Grain**: Grounded, organic, and premium feel.
-- **Electric Orange**: Energy, focus, and modern interaction.
-- **Glassmorphism**: Depth and clarity in every interface.
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tototofu123&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
 </p>
