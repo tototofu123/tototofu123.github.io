@@ -27,12 +27,9 @@ This index is automatically synchronized with my latest GitHub activity.
 - [Circuitbuilder](https://tototofu123.github.io/circuitbuilder) - Interactive online circuit builder with real-time value explanations and electronics simulations.
 - [Testing Website](https://tototofu123.github.io/testing-website) - Automated testing and QA playground for web development experiments and CI/CD workflows.
 - [Hkust_climb_soc_web](https://tototofu123.github.io/hkust_climb_soc_web) - The HKUST Climbing Society Webpage
-- [Hkust Climb Chatbot](https://tototofu123.github.io/hkust-climb-chatbot) - RAG-based FAQ chatbot for HKUST Climbing Society using TF-IDF retrieval and optional Ollama support.
 - [Stm32](https://tototofu123.github.io/stm32) - Embedded tank combat wargame on STM32F103VET6 featuring WiFi control, AI bots, and real-time HUD.
-- [My Skills](https://tototofu123.github.io/my-skills) - Inventory and management repository for custom AI Agent skills and capabilities.
 - [Design Md Visual Extension](https://tototofu123.github.io/design-md-visual-extension) - CLI tool and HTML generator for visualizing DESIGN.md design system tokens.
 - [Macau Trip](https://tototofu123.github.io/macau-trip) - Interactive Leaflet-based map and itinerary for the HKUST Sports Climbing Team Macau trip.
-- [Time Encrypt](https://tototofu123.github.io/time-encrypt) - Educational encryption tool demonstrating time-based key generation and XOR ciphers in Python.
 - [Pullup Detector](https://tototofu123.github.io/pullup-detector) - AI-powered pull-up counter using TensorFlow.js MoveNet for real-time rep tracking in the browser.
 <!-- REPO_LIST_END -->
 
