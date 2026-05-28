@@ -17,8 +17,8 @@ This index is automatically synchronized with my latest GitHub activity.
 - [Music Shuffler](https://tototofu123.github.io/music-shuffler) - Smart web-based music playlist shuffler for randomizing and discovering tracks via web interfaces.
 - [CypherLabEncryption](https://tototofu123.github.io/CypherLabEncryption) - A demonstration and simulation of some major encryption methods with simulation and basic description of the method
 - [Fingercount](https://tototofu123.github.io/fingercount) - Machine learning project for real-time finger count gesture recognition using computer vision.
-- [Hk Bus Fetch](https://tototofu123.github.io/hk-bus-fetch) - Real-time Hong Kong bus arrival (ETA) finder using KMB API and geolocation for smart route planning.
 - [Tototofu123](https://tototofu123.github.io/tototofu123) - Personal profile and project index for Toto - Python, AI, and Web Developer.
+- [Hk Bus Fetch](https://tototofu123.github.io/hk-bus-fetch) - Real-time Hong Kong bus arrival (ETA) finder using KMB API and geolocation for smart route planning.
 - [Mywebsite](https://tototofu123.github.io/mywebsite) - Personal portfolio website showcasing software engineering projects, AI experiments, and technical skills.
 - [Connect4](https://tototofu123.github.io/connect4) - Classic Connect Four board game in Python featuring clean logic and playable terminal/UI interface.
 - [Is It Ai Image](https://tototofu123.github.io/is-it-ai-image) - CNN model to classify images as AI-generated or real using TensorFlow/Keras.
