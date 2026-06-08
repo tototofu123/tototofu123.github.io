@@ -1,16 +1,16 @@
-# 🪵 tototofu123 | Engineering & Design
+# tototofu123 | Engineering & Design
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tototofu123/tototofu123.github.io/main/assets/banner.png" width="100%" alt="Portfolio Banner">
 </p>
 
-## 🚀 The Hub
+## The Hub
 **Looking for the interactive showcase?**  
 Visit my main portal: [**repo.lai.codes**](https://repo.lai.codes)
 
 ---
 
-## 🛠️ Active Web Projects
+## Active Web Projects
 This index is automatically synchronized with my latest GitHub activity.
 
 <!-- REPO_LIST_START -->
@@ -21,7 +21,7 @@ This index is automatically synchronized with my latest GitHub activity.
 - [Tototofu123](https://tototofu123.github.io/tototofu123) - Personal profile and project index for Toto - Python, AI, and Web Developer.
 - [Edit Boulder Wall](https://tototofu123.github.io/edit-boulder-wall) - No description
 - [Hkust_climb_soc_web](https://tototofu123.github.io/hkust_climb_soc_web) - The HKUST Climbing Society Webpage
-- [Ocr Mcp](https://tototofu123.github.io/ocr-mcp) - OCR Model Comparison Platform — benchmarks PaddleOCR, LightOnOCR, olmOCR, Chandra OCR, Dots MOCR, and Infinity Parser via llama.cpp
+- [Ocr Mcp](https://tototofu123.github.io/ocr-mcp) - OCR Model Comparison Platform benchmarks PaddleOCR, LightOnOCR, olmOCR, Chandra OCR, Dots MOCR, and Infinity Parser via llama.cpp
 - [Mywebsite](https://tototofu123.github.io/mywebsite) - Personal portfolio website showcasing software engineering projects, AI experiments, and technical skills.
 - [Connect4](https://tototofu123.github.io/connect4) - Classic Connect Four board game in Python featuring clean logic and playable terminal/UI interface.
 - [Is It Ai Image](https://tototofu123.github.io/is-it-ai-image) - CNN model to classify images as AI-generated or real using TensorFlow/Keras.
@@ -34,13 +34,3 @@ This index is automatically synchronized with my latest GitHub activity.
 - [Macau Trip](https://tototofu123.github.io/macau-trip) - Interactive Leaflet-based map and itinerary for the HKUST Sports Climbing Team Macau trip.
 - [Pullup Detector](https://tototofu123.github.io/pullup-detector) - AI-powered pull-up counter using TensorFlow.js MoveNet for real-time rep tracking in the browser.
 <!-- REPO_LIST_END -->
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tototofu123&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  Built with 🧡 by tototofu123
-</p>
