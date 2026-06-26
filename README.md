@@ -16,8 +16,8 @@ This index is automatically synchronized with my latest GitHub activity.
 <!-- REPO_LIST_START -->
 - [Music Shuffler](https://tototofu123.github.io/music-shuffler) - Smart web-based music playlist shuffler for randomizing and discovering tracks via web interfaces.
 - [CypherLabEncryption](https://tototofu123.github.io/CypherLabEncryption) - A demonstration and simulation of some major encryption methods with simulation and basic description of the method
-- [Fingercount](https://tototofu123.github.io/fingercount) - Machine learning project for real-time finger count gesture recognition using computer vision.
 - [Hk Bus Fetch](https://tototofu123.github.io/hk-bus-fetch) - Real-time Hong Kong bus arrival (ETA) finder using KMB API and geolocation for smart route planning.
+- [Fingercount](https://tototofu123.github.io/fingercount) - Machine learning project for real-time finger count gesture recognition using computer vision.
 - [Ocr Mcp](https://tototofu123.github.io/ocr-mcp) - OCR Model Comparison Platform — benchmarks PaddleOCR, LightOnOCR, olmOCR, Chandra OCR, Dots MOCR, and Infinity Parser via llama.cpp
 - [Tototofu123](https://tototofu123.github.io/tototofu123) - Personal profile and project index for Toto - Python, AI, and Web Developer.
 - [Edit Boulder Wall](https://tototofu123.github.io/edit-boulder-wall) - No description
