@@ -14,9 +14,9 @@ Visit my main portal: [**repo.lai.codes**](https://repo.lai.codes)
 This index is automatically synchronized with my latest GitHub activity.
 
 <!-- REPO_LIST_START -->
-- [Music Shuffler](https://tototofu123.github.io/music-shuffler) - Smart web-based music playlist shuffler for randomizing and discovering tracks via web interfaces.
-- [CypherLabEncryption](https://tototofu123.github.io/CypherLabEncryption) - A demonstration and simulation of some major encryption methods with simulation and basic description of the method
 - [Hk Bus Fetch](https://tototofu123.github.io/hk-bus-fetch) - Real-time Hong Kong bus arrival (ETA) finder using KMB API and geolocation for smart route planning.
+- [CypherLabEncryption](https://tototofu123.github.io/CypherLabEncryption) - A demonstration and simulation of some major encryption methods with simulation and basic description of the method
+- [Music Shuffler](https://tototofu123.github.io/music-shuffler) - Smart web-based music playlist shuffler for randomizing and discovering tracks via web interfaces.
 - [Inclusive Tourism Decision Platform](https://tototofu123.github.io/inclusive-tourism-decision-platform) - Hackathon project for an inclusive tourism and accessibility decision intelligence platform for Kowloon and later all Hong Kong.
 - [Fingercount](https://tototofu123.github.io/fingercount) - Machine learning project for real-time finger count gesture recognition using computer vision.
 - [Ocr Mcp](https://tototofu123.github.io/ocr-mcp) - OCR Model Comparison Platform — benchmarks PaddleOCR, LightOnOCR, olmOCR, Chandra OCR, Dots MOCR, and Infinity Parser via llama.cpp
