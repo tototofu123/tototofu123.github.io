@@ -15,6 +15,7 @@ This index is automatically synchronized with my latest GitHub activity.
 
 <!-- REPO_LIST_START -->
 - [SpeedRoute](https://tototofu123.github.io/SpeedRoute) - Speed climbing analysis app
+- [Hkust_climb_soc_web](https://tototofu123.github.io/hkust_climb_soc_web) - The HKUST Climbing Society Webpage
 - [Hk Bus Fetch](https://tototofu123.github.io/hk-bus-fetch) - Real-time Hong Kong bus arrival (ETA) finder using KMB API and geolocation for smart route planning.
 - [CypherLabEncryption](https://tototofu123.github.io/CypherLabEncryption) - A demonstration and simulation of some major encryption methods with simulation and basic description of the method
 - [Music Shuffler](https://tototofu123.github.io/music-shuffler) - Smart web-based music playlist shuffler for randomizing and discovering tracks via web interfaces.
@@ -23,7 +24,6 @@ This index is automatically synchronized with my latest GitHub activity.
 - [Ocr Mcp](https://tototofu123.github.io/ocr-mcp) - OCR Model Comparison Platform — benchmarks PaddleOCR, LightOnOCR, olmOCR, Chandra OCR, Dots MOCR, and Infinity Parser via llama.cpp
 - [Tototofu123](https://tototofu123.github.io/tototofu123) - Personal profile and project index for Toto - Python, AI, and Web Developer.
 - [Edit Boulder Wall](https://tototofu123.github.io/edit-boulder-wall) - No description
-- [Hkust_climb_soc_web](https://tototofu123.github.io/hkust_climb_soc_web) - The HKUST Climbing Society Webpage
 - [Mywebsite](https://tototofu123.github.io/mywebsite) - Personal portfolio website showcasing software engineering projects, AI experiments, and technical skills.
 - [Connect4](https://tototofu123.github.io/connect4) - Classic Connect Four board game in Python featuring clean logic and playable terminal/UI interface.
 - [Is It Ai Image](https://tototofu123.github.io/is-it-ai-image) - CNN model to classify images as AI-generated or real using TensorFlow/Keras.
