@@ -14,7 +14,6 @@ Visit my main portal: [**repo.lai.codes**](https://repo.lai.codes)
 This index is automatically synchronized with my latest GitHub activity.
 
 <!-- REPO_LIST_START -->
-- [SpeedRoute](https://tototofu123.github.io/SpeedRoute) - Speed climbing analysis app
 - [Hkust_climb_soc_web](https://tototofu123.github.io/hkust_climb_soc_web) - The HKUST Climbing Society Webpage
 - [Hk Bus Fetch](https://tototofu123.github.io/hk-bus-fetch) - Real-time Hong Kong bus arrival (ETA) finder using KMB API and geolocation for smart route planning.
 - [CypherLabEncryption](https://tototofu123.github.io/CypherLabEncryption) - A demonstration and simulation of some major encryption methods with simulation and basic description of the method
