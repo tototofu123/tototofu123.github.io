@@ -14,6 +14,7 @@ Visit my main portal: [**repo.lai.codes**](https://repo.lai.codes)
 This index is automatically synchronized with my latest GitHub activity.
 
 <!-- REPO_LIST_START -->
+- [Tototofu123](https://tototofu123.github.io/tototofu123) - Personal profile and project index for Toto - Python, AI, and Web Developer.
 - [Hkust_climb_soc_web](https://tototofu123.github.io/hkust_climb_soc_web) - The HKUST Climbing Society Webpage
 - [Hk Bus Fetch](https://tototofu123.github.io/hk-bus-fetch) - Real-time Hong Kong bus arrival (ETA) finder using KMB API and geolocation for smart route planning.
 - [CypherLabEncryption](https://tototofu123.github.io/CypherLabEncryption) - A demonstration and simulation of some major encryption methods with simulation and basic description of the method
@@ -21,7 +22,6 @@ This index is automatically synchronized with my latest GitHub activity.
 - [Inclusive Tourism Decision Platform](https://tototofu123.github.io/inclusive-tourism-decision-platform) - Hackathon project for an inclusive tourism and accessibility decision intelligence platform for Kowloon and later all Hong Kong.
 - [Fingercount](https://tototofu123.github.io/fingercount) - Machine learning project for real-time finger count gesture recognition using computer vision.
 - [Ocr Mcp](https://tototofu123.github.io/ocr-mcp) - OCR Model Comparison Platform — benchmarks PaddleOCR, LightOnOCR, olmOCR, Chandra OCR, Dots MOCR, and Infinity Parser via llama.cpp
-- [Tototofu123](https://tototofu123.github.io/tototofu123) - Personal profile and project index for Toto - Python, AI, and Web Developer.
 - [Edit Boulder Wall](https://tototofu123.github.io/edit-boulder-wall) - No description
 - [Mywebsite](https://tototofu123.github.io/mywebsite) - Personal portfolio website showcasing software engineering projects, AI experiments, and technical skills.
 - [Connect4](https://tototofu123.github.io/connect4) - Classic Connect Four board game in Python featuring clean logic and playable terminal/UI interface.
