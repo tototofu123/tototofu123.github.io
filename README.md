@@ -14,6 +14,7 @@ Visit my main portal: [**repo.lai.codes**](https://repo.lai.codes)
 This index is automatically synchronized with my latest GitHub activity.
 
 <!-- REPO_LIST_START -->
+- [Perihel Transcribe](https://tototofu123.github.io/perihel-transcribe) - Perihel Transcribe — low-memory on-device Wispr Flow clone (Rust + sherpa Parakeet int8, <120MB). Part of Perihel ecosystem. Hold Right Ctrl to dictate anywhere.
 - [Tototofu123](https://tototofu123.github.io/tototofu123) - Personal profile and project index for Toto - Python, AI, and Web Developer.
 - [Hkust_climb_soc_web](https://tototofu123.github.io/hkust_climb_soc_web) - The HKUST Climbing Society Webpage
 - [Hk Bus Fetch](https://tototofu123.github.io/hk-bus-fetch) - Real-time Hong Kong bus arrival (ETA) finder using KMB API and geolocation for smart route planning.
