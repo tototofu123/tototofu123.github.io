@@ -14,6 +14,7 @@ Visit my main portal: [**repo.lai.codes**](https://repo.lai.codes)
 This index is automatically synchronized with my latest GitHub activity.
 
 <!-- REPO_LIST_START -->
+- [Shell Basics](https://tototofu123.github.io/shell-basics) - No description
 - [Tototofu123](https://tototofu123.github.io/tototofu123) - Personal profile and project index for Toto - Python, AI, and Web Developer.
 - [Perihel Transcribe](https://tototofu123.github.io/perihel-transcribe) - Perihel Transcribe — low-memory on-device Wispr Flow clone (Rust + sherpa Parakeet int8, <120MB). Part of Perihel ecosystem. Hold Right Ctrl to dictate anywhere.
 - [Hkust_climb_soc_web](https://tototofu123.github.io/hkust_climb_soc_web) - The HKUST Climbing Society Webpage
