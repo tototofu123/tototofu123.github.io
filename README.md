@@ -14,9 +14,9 @@ Visit my main portal: [**repo.lai.codes**](https://repo.lai.codes)
 This index is automatically synchronized with my latest GitHub activity.
 
 <!-- REPO_LIST_START -->
+- [Perihel V2](https://tototofu123.github.io/perihel-v2) - Perihel — local-first desktop companion. Hold Right Ctrl to dictate on-device, capture fleeting thoughts, resurface them at smart times. Rust + sherpa-onnx, no cloud. v2 unifies the app and dictation sidecar.
 - [Shell Basics](https://tototofu123.github.io/shell-basics) - No description
 - [Tototofu123](https://tototofu123.github.io/tototofu123) - Personal profile and project index for Toto - Python, AI, and Web Developer.
-- [Perihel Transcribe](https://tototofu123.github.io/perihel-transcribe) - Perihel Transcribe — low-memory on-device Wispr Flow clone (Rust + sherpa Parakeet int8, <120MB). Part of Perihel ecosystem. Hold Right Ctrl to dictate anywhere.
 - [Hkust_climb_soc_web](https://tototofu123.github.io/hkust_climb_soc_web) - The HKUST Climbing Society Webpage
 - [Hk Bus Fetch](https://tototofu123.github.io/hk-bus-fetch) - Real-time Hong Kong bus arrival (ETA) finder using KMB API and geolocation for smart route planning.
 - [CypherLabEncryption](https://tototofu123.github.io/CypherLabEncryption) - A demonstration and simulation of some major encryption methods with simulation and basic description of the method
