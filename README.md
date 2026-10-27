@@ -14,6 +14,7 @@ Visit my main portal: [**repo.lai.codes**](https://repo.lai.codes)
 This index is automatically synchronized with my latest GitHub activity.
 
 <!-- REPO_LIST_START -->
+- [Rl Climb Agent Colab](https://tototofu123.github.io/rl-climb-agent-colab) - temp mirror for Colab GPU training run (deleted after)
 - [Perihel V2](https://tototofu123.github.io/perihel-v2) - Perihel — local-first desktop companion. Hold Right Ctrl to dictate on-device, capture fleeting thoughts, resurface them at smart times. Rust + sherpa-onnx, no cloud. v2 unifies the app and dictation sidecar.
 - [Mini Projects](https://tototofu123.github.io/mini-projects) - Small self-contained experiments: games, visual toys, teaching tools and throwaway scripts. Merged from 13 standalone repos with full history preserved.
 - [Hkust_climb_soc_web](https://tototofu123.github.io/hkust_climb_soc_web) - The HKUST Climbing Society Webpage
