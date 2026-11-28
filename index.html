@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href="data:," />
+    <title>Man To Lai</title>
+    <style>
+      :root {
+        --bg: #ffffff;
+        --text: #111111;
+        --muted: #444444;
+        --link: #0a66c2;
+        --border: #767676;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #161616;
+          --text: #f2f2f2;
+          --muted: #c9c9c9;
+          --link: #6db3f2;
+          --border: #8a8a8a;
+        }
+      }
+      * { box-sizing: border-box; border-radius: 0; }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.6;
+      }
+      a { color: var(--link); }
+      a:visited { color: var(--link); }
+      header, main, footer { max-width: 760px; margin: 0 auto; padding: 0 16px; }
+      header { padding-top: 32px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
+      h1 { font-size: 28px; line-height: 1.2; margin: 0 0 10px 0; color: var(--text); }
+      h2 { font-size: 20px; margin: 32px 0 12px 0; color: var(--text); border-bottom: 1px solid var(--border); padding-bottom: 6px; }
+      h3 { font-size: 17px; margin: 0 0 6px 0; color: var(--text); overflow-wrap: break-word; }
+      p { color: var(--text); margin: 0 0 12px 0; }
+      .muted { color: var(--muted); }
+      .small { font-size: 14px; color: var(--muted); }
+      .links { margin: 12px 0 0 0; display: flex; flex-wrap: wrap; gap: 4px 20px; }
+      .links a { display: inline-flex; align-items: center; min-height: 36px; }
+      .box { border: 1px solid var(--border); padding: 16px; margin: 0 0 12px 0; background: var(--bg); }
+      .box p:last-child { margin-bottom: 0; }
+      .box a { overflow-wrap: break-word; }
+      footer { padding-top: 16px; padding-bottom: 32px; border-top: 1px solid var(--border); margin-top: 32px; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Man To Lai</h1>
+      <p>Computer Engineering and AI student at HKUST, graduating spring 2027. Public projects collected in one place.</p>
+      <p class="links">
+        <a href="https://lai.codes/">lai.codes</a>
+        <a href="https://tototofu.com/">tototofu.com</a>
+        <a href="https://www.linkedin.com/in/lai-man-to">LinkedIn</a>
+        <a href="https://github.com/tototofu123">GitHub</a>
+      </p>
+    </header>
+
+    <main>
+      <section aria-labelledby="certificates">
+        <h2 id="certificates">Certificates</h2>
+        <div class="box">
+          <p>64 certificates from online courses taken over the past couple of years. Full list at <a href="https://tototofu.com/certificates">tototofu.com/certificates</a>.</p>
+        </div>
+      </section>
+
+      <section aria-labelledby="projects">
+        <h2 id="projects">Projects</h2>
+        <p class="muted">Public repos on GitHub. List checked on 28 November 2026.</p>
+
+        <article class="box">
+          <h3><a href="https://github.com/tototofu123/openhere">openhere</a></h3>
+          <p>Small tray tool for Windows that moves each new window to whichever screen the mouse is on. Made because new windows kept opening on the wrong monitor. It is a single AutoHotkey file that runs as it is.</p>
+          <p class="small">Code: <a href="https://github.com/tototofu123/openhere">github.com/tototofu123/openhere</a></p>
+        </article>
+
+        <article class="box">
+          <h3><a href="https://github.com/tototofu123/hk-bus-fetch">hk-bus-fetch</a></h3>
+          <p>Page that uses KMB data and location to show when the next buses are actually coming.</p>
+          <p class="small">Code: <a href="https://github.com/tototofu123/hk-bus-fetch">github.com/tototofu123/hk-bus-fetch</a></p>
+        </article>
+
+        <article class="box">
+          <h3><a href="https://github.com/tototofu123/CypherLabEncryption">CypherLabEncryption</a></h3>
+          <p>Built while learning about encryption. A few common methods can be tried to see what happens to a message when it is encrypted, and each method has a short explanation next to it.</p>
+          <p class="small">Code: <a href="https://github.com/tototofu123/CypherLabEncryption">github.com/tototofu123/CypherLabEncryption</a></p>
+        </article>
+
+        <article class="box">
+          <h3><a href="https://github.com/tototofu123/music-shuffler">music-shuffler</a></h3>
+          <p>Small web page that shuffles a playlist in a way that brings back songs that had been forgotten in there.</p>
+          <p class="small">Code: <a href="https://github.com/tototofu123/music-shuffler">github.com/tototofu123/music-shuffler</a> and you can try it at <a href="https://tototofu123.github.io/music-shuffler/">tototofu123.github.io/music-shuffler</a></p>
+        </article>
+
+        <article class="box">
+          <h3><a href="https://github.com/tototofu123/inclusive-tourism-decision-platform">inclusive-tourism-decision-platform</a></h3>
+          <p>Built solo for a hackathon, this project helps people plan trips around accessibility needs, starting with Kowloon to keep the scope workable.</p>
+          <p class="small">Code: <a href="https://github.com/tototofu123/inclusive-tourism-decision-platform">github.com/tototofu123/inclusive-tourism-decision-platform</a></p>
+        </article>
+
+        <article class="box">
+          <h3><a href="https://github.com/tototofu123/perihel">perihel</a></h3>
+          <p>Perihel is the project with the most time spent on it. Hold down Right Ctrl and talk, and it writes down what was said, with everything kept on the computer itself. It also saves quick thoughts when they pop up and brings them back later when they are useful again. Written in Rust.</p>
+          <p class="small">Code: <a href="https://github.com/tototofu123/perihel">github.com/tototofu123/perihel</a></p>
+        </article>
+
+        <article class="box">
+          <h3><a href="https://github.com/tototofu123/agent-bus">agent-bus</a></h3>
+          <p>Local message bus that lets a few different AI agents talk to each other. They can share rooms, see who is around, and hand work off to each other.</p>
+          <p class="small">Code: <a href="https://github.com/tototofu123/agent-bus">github.com/tototofu123/agent-bus</a></p>
+        </article>
+
+        <article class="box">
+          <h3><a href="https://github.com/tototofu123/tototofu123.github.io">tototofu123.github.io</a></h3>
+          <p>Repo that runs the current website.</p>
+          <p class="small">Code: <a href="https://github.com/tototofu123/tototofu123.github.io">github.com/tototofu123/tototofu123.github.io</a> and the page itself is at <a href="https://tototofu123.github.io/">tototofu123.github.io</a></p>
+        </article>
+
+        <article class="box">
+          <h3><a href="https://github.com/tototofu123/mini-projects">mini-projects</a></h3>
+          <p>A lot of small things made over time, little games and visual toys and tools used when teaching, that were spread across too many repos. Merged into this one repo, with the full history kept.</p>
+          <p class="small">Code: <a href="https://github.com/tototofu123/mini-projects">github.com/tototofu123/mini-projects</a> and the demos are at <a href="https://tototofu123.github.io/mini-projects/">tototofu123.github.io/mini-projects</a></p>
+        </article>
+
+        <article class="box">
+          <h3><a href="https://github.com/tototofu123/hkust_climb_soc_web">hkust_climb_soc_web</a></h3>
+          <p>Website for the HKUST Climbing Society. It runs on Vercel.</p>
+          <p class="small">Code: <a href="https://github.com/tototofu123/hkust_climb_soc_web">github.com/tototofu123/hkust_climb_soc_web</a> and the site is at <a href="https://hkustclimbingsociety.vercel.app/">hkustclimbingsociety.vercel.app</a></p>
+        </article>
+
+        <article class="box">
+          <h3><a href="https://github.com/tototofu123/ocr-mcp">ocr-mcp</a></h3>
+          <p>Compares a few OCR models side by side, including PaddleOCR and olmOCR, running through llama.cpp, to see which one actually reads documents best.</p>
+          <p class="small">Code: <a href="https://github.com/tototofu123/ocr-mcp">github.com/tototofu123/ocr-mcp</a></p>
+        </article>
+
+        <article class="box">
+          <h3><a href="https://github.com/tototofu123/mywebsite">mywebsite</a></h3>
+          <p>Portfolio site at lai.codes, with more written about the projects and the things worked on.</p>
+          <p class="small">Code: <a href="https://github.com/tototofu123/mywebsite">github.com/tototofu123/mywebsite</a> and the site is at <a href="https://lai.codes/">lai.codes</a></p>
+        </article>
+
+        <article class="box">
+          <h3><a href="https://github.com/tototofu123/stm32">stm32</a></h3>
+          <p>Tank game that runs on an STM32 board. The tank is controlled over WiFi while the board handles the game and draws the display, and AI bots are included for playing alone.</p>
+          <p class="small">Code: <a href="https://github.com/tototofu123/stm32">github.com/tototofu123/stm32</a></p>
+        </article>
+      </section>
+    </main>
+
+    <footer>
+      <p class="small">Man To Lai, HKUST Computer Engineering and AI.</p>
+    </footer>
+  </body>
+</html>
