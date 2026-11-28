@@ -48,6 +48,12 @@
       .box p:last-child { margin-bottom: 0; }
       .box a { overflow-wrap: break-word; }
       footer { padding-top: 16px; padding-bottom: 32px; border-top: 1px solid var(--border); margin-top: 32px; }
+      #ad { position: fixed; right: 16px; bottom: 16px; width: 280px; border: 1px solid var(--border); background: var(--bg); padding: 12px; z-index: 10; }
+      #ad a { display: flex; gap: 10px; text-decoration: none; color: var(--text); }
+      #ad .icon { width: 32px; height: 32px; border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; font-size: 18px; flex: none; }
+      #ad .name { font-size: 15px; margin: 0; }
+      #ad .desc { font-size: 13px; color: var(--muted); margin: 2px 0 0 0; }
+      #adClose { position: absolute; top: 4px; right: 8px; border: 0; background: none; color: var(--muted); font-size: 16px; cursor: pointer; padding: 4px; }
     </style>
   </head>
   <body>
@@ -156,6 +162,40 @@
 
     <footer>
       <p class="small">Man To Lai, HKUST Computer Engineering and AI.</p>
+      <p class="small">
+        <a href="https://tototofu.com/">tototofu.com</a> |
+        <a href="https://tototofu.com/certificates">Certificates</a> |
+        <a href="https://lai.codes/">lai.codes</a> |
+        <a href="https://tototofu.eu.cc/">Perihel daily</a> |
+        <a href="https://laimanto.eu.cc/">LinkedIn status</a> |
+        <a href="https://totolai.eu.cc/">Recent commits</a>
+      </p>
     </footer>
+    <div id="ad">
+      <button id="adClose" aria-label="Close">x</button>
+      <a id="adLink" href="https://tototofu.com/" target="_blank" rel="noopener">
+        <span class="icon" id="adIcon">T</span>
+        <span><span class="name" id="adName">tototofu.com</span><span class="desc" id="adDesc">Main site and certificates.</span></span>
+      </a>
+    </div>
+    <script>
+      var ads = [
+        { name: "tototofu.com", desc: "Main site and certificates.", url: "https://tototofu.com/", icon: "T" },
+        { name: "Certificates", desc: "64 verified certificates.", url: "https://tototofu.com/certificates", icon: "C" },
+        { name: "lai.codes", desc: "Portfolio site.", url: "https://lai.codes/", icon: "L" },
+        { name: "Perihel daily", desc: "Daily AI news digest.", url: "https://tototofu.eu.cc/", icon: "P" },
+        { name: "LinkedIn status", desc: "Current status and roles.", url: "https://laimanto.eu.cc/", icon: "L" },
+        { name: "Recent commits", desc: "Latest public GitHub activity.", url: "https://totolai.eu.cc/", icon: "G" },
+        { name: "music-shuffler", desc: "Shuffle a playlist and rediscover songs.", url: "https://tototofu123.github.io/music-shuffler/", icon: "M" },
+        { name: "mini-projects", desc: "Small games and teaching tools.", url: "https://tototofu123.github.io/mini-projects/", icon: "M" },
+        { name: "HKUST Climbing Society", desc: "Climbing society website.", url: "https://hkustclimbingsociety.vercel.app/", icon: "H" }
+      ];
+      var pick = ads[Math.floor(Math.random() * ads.length)];
+      document.getElementById("adLink").href = pick.url;
+      document.getElementById("adIcon").textContent = pick.icon;
+      document.getElementById("adName").textContent = pick.name;
+      document.getElementById("adDesc").textContent = pick.desc;
+      document.getElementById("adClose").onclick = function () { document.getElementById("ad").style.display = "none"; };
+    </script>
   </body>
 </html>
